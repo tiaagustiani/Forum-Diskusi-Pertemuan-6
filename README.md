@@ -1,2 +1,2 @@
-# Bintang
-Membuat pengulangan bintang
+# Output
+Membuat output perulangan bintang dan angka
