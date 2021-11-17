@@ -1,0 +1,2 @@
+# Bintang
+Membuat pengulangan bintang
